@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/Article.scss"],"names":[],"mappings":"AAAA,GACE,cAAe,CACf,iBAAkB,CAClB,aAAqB,CACtB,EAGC,kBAAmB,CACnB,cAAe","file":"main.9c617f04.chunk.css","sourcesContent":["h1 {\n  font-size: 48px;\n  text-align: center;\n  color: darkolivegreen;\n}\n\np {\n  text-align: justify;\n  font-size: 18px;\n}\n"]}
